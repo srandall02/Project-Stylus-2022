@@ -1,2 +1,2 @@
-# Project-Stylus-2022
-From 2022-2024 I worked with the computational biology directed research program at Biola University. We used a tool called Stylus, an app constructed to aid in understanding how gnees code for protein structure. Stylus is unique in that it draws its inspiration from Chinese characters to help classify protein structure. We also ran computational simulations of bacterial populations. Here is a compilation of some contributions and code.
+# Computational Biology Work
+From 2022-2024, I worked with the computational biology directed research program at Biola University. We used a tool called Stylus, an app constructed to aid in understanding how genes code for protein structure. Stylus is unique in that it draws its inspiration from Chinese characters to help classify protein structure. We also ran computational simulations of bacterial populations. Here is a compilation of some contributions and code.
