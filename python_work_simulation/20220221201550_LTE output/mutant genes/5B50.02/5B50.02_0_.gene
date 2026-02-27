@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<genome xmlns='http://biologicinstitute.org/schemas/stylus/1.5'>
+<bases>ATGAGTAGGAGCAGTATTCTACCGTTCCTCCCTACTACTGAGGATGAGAAAGCGGACCTGTACCACTATTACCGACGAGATGCAGGGTAA</bases>
+<statistics trialFirst='0' trialLast='0' trialAttempts='0' score='5.243753325553993e-01' units='46.0594215389319' cost='4.792056930506320e-02' fitness='1.094259396663709e+01' countBases='90' countRollbacks='0'>
+<scoreRange>
+<maximum trial='0' value='0.524375332555399' />
+<minimum trial='0' value='0.524375332555399' />
+</scoreRange>
+<unitsRange>
+<maximum trial='0' value='46.0594215389319' />
+<minimum trial='0' value='46.0594215389319' />
+</unitsRange>
+<costRange>
+<maximum trial='0' value='0.0479205693050632' />
+<minimum trial='0' value='0.0479205693050632' />
+</costRange>
+<fitnessRange>
+<maximum trial='0' value='10.9425939666371' />
+<minimum trial='0' value='1.00000000000000' />
+</fitnessRange>
+<bases changed='0' inserted='0' deleted='0'>
+<maximum trial='0' countBases='90' />
+<minimum trial='0' countBases='90' />
+</bases>
+<rollbacks countRollbacks='0'>
+<maximum trial='0' countRollbacks='0' />
+<minimum trial='0' countRollbacks='0' />
+</rollbacks>
+<mutations>
+<changes attempted='0' accepted='0' compared='0' countBases='0' silent='0' />
+<copies attempted='0' accepted='0' compared='0' countBases='0' />
+<deletions attempted='0' accepted='0' compared='0' countBases='0' />
+<insertions attempted='0' accepted='0' compared='0' countBases='0' />
+<transpositions attempted='0' accepted='0' compared='0' countBases='0' />
+</mutations>
+</statistics>
+<lineage>
+</lineage>
+<genes>
+<gene baseFirst='1' baseLast='90' units='46.0594215389319'>
+<origin x='0.00000000000000' y='0.00000000000000' />
+<hanReferences>
+<hanReference unicode='5B50'>
+<bounds top='5.17699703807106' left='-9.80356675607726' bottom='-8.32792561473750' right='0.00000000000000' width='9.80356675607726' height='13.5049226528086' x-midpoint='-4.90178337803863' y-midpoint='-1.57546428833322' />
+<scale sxToHan='44.8984500053090' syToHan='31.8946315468560' />
+<translation dxToHan='495.062263421130' dyToHan='323.017792065346' />
+<score score='0.524375332555399' scale='0.00000000000000' placement='0.00000000000000' illegalOverlaps='0' missingOverlaps='0' marks='0.00000000000000' />
+<groups>
+<group>
+<bounds top='5.17699703807106' left='-9.80356675607726' bottom='-8.32792561473750' right='0.00000000000000' width='9.80356675607726' height='13.5049226528086' x-midpoint='-4.90178337803863' y-midpoint='-1.57546428833322' />
+<scale sxToHan='44.8984500053090' syToHan='31.8946315468560' />
+<translation dxToHan='495.062263421130' dyToHan='323.017792065346' />
+<score score='0.524375332555399' scale='0.0527788900016347' placement='0.0114509424763409' deviation='0.0330810931901110' extraLength='0.0136605407152048' illegalOverlaps='0' missingOverlaps='0' dropouts='0' />
+<containedStrokes>2 3 1</containedStrokes>
+</group>
+</groups>
+<strokes>
+<stroke baseFirst='4' baseLast='15' correspondsTo='3'>
+<bounds top='0.00000000000000' left='-9.80356675607726' bottom='0.00000000000000' right='0.00000000000000' width='9.80356675607726' height='0.00000000000000' x-midpoint='-4.90178337803863' y-midpoint='0.00000000000000' />
+<scale sxToHan='43.8615873894510' syToHan='31.8946315468560' />
+<translation dxToHan='490.000000000000' dyToHan='310.000000000000' />
+<score deviation='0.00000000000000' extraLength='0.00000000000000' dropouts='0' />
+</stroke>
+<stroke baseFirst='31' baseLast='51' correspondsTo='1'>
+<bounds top='5.17699703807106' left='-7.93063798409215' bottom='1.18274792252631' right='-1.78696754598751' width='6.14367043810464' height='3.99424911554475' x-midpoint='-4.85880276503983' y-midpoint='3.17987248029868' />
+<scale sxToHan='47.2030527876861' syToHan='32.5467932117875' />
+<translation dxToHan='504.350323403131' dyToHan='331.505347943865' />
+<score deviation='24.0000702698370' extraLength='4.27085266424615' dropouts='0' />
+</stroke>
+<stroke baseFirst='61' baseLast='81' correspondsTo='2'>
+<bounds top='1.47564114133976' left='-6.90253700509191' bottom='-8.32792561473750' right='-4.78121666153227' width='2.12132034355964' height='9.80356675607726' x-midpoint='-5.84187683331209' y-midpoint='-3.42614223669887' />
+<scale sxToHan='42.4264068711928' syToHan='31.6211443970461' />
+<translation dxToHan='482.849843421494' dyToHan='323.338538391474' />
+<score deviation='19.6621617460003' extraLength='13.7590744225456' dropouts='0' />
+</stroke>
+</strokes>
+<overlaps>
+<overlap firstStroke='1' secondStroke='3' x='-4.78121666153227' y='0.00000000000000' />
+<overlap firstStroke='2' secondStroke='3' x='-4.78121666153227' y='1.47564114133976' />
+</overlaps>
+</hanReference>
+</hanReferences>
+<segments>
+<segment baseFirst='4' baseLast='15' coherent='true'>
+<point x='0.00000000000000' y='0.00000000000000' />
+<point x='-2.71828182845905' y='0.00000000000000' />
+<point x='-4.36700309915917' y='0.00000000000000' />
+<point x='-7.08528492761822' y='0.00000000000000' />
+<point x='-9.80356675607726' y='0.00000000000000' />
+</segment>
+<segment baseFirst='16' baseLast='30' coherent='false'>
+<point x='-9.80356675607726' y='0.00000000000000' />
+<point x='-8.63774476527870' y='1.16582199079856' />
+<point x='-8.63774476527870' y='2.16582199079856' />
+<point x='-7.93063798409215' y='1.45871520961201' />
+<point x='-7.93063798409215' y='4.17699703807106' />
+<point x='-7.93063798409215' y='5.17699703807106' />
+</segment>
+<segment baseFirst='31' baseLast='51' coherent='true'>
+<point x='-7.93063798409215' y='5.17699703807106' />
+<point x='-7.22353120290560' y='4.46989025688451' />
+<point x='-4.50524937444656' y='4.46989025688451' />
+<point x='-1.78696754598751' y='4.46989025688451' />
+<point x='-2.49407432717406' y='3.76278347569796' />
+<point x='-3.20118110836061' y='3.05567669451142' />
+<point x='-3.90828788954716' y='2.34856991332487' />
+<point x='-5.07410988034572' y='1.18274792252631' />
+</segment>
+<segment baseFirst='52' baseLast='60' coherent='false'>
+<point x='-5.07410988034572' y='1.18274792252631' />
+<point x='-4.07410988034572' y='1.18274792252631' />
+<point x='-4.78121666153227' y='0.475641141339759' />
+<point x='-4.78121666153227' y='1.47564114133976' />
+</segment>
+<segment baseFirst='61' baseLast='81' coherent='true'>
+<point x='-4.78121666153227' y='1.47564114133976' />
+<point x='-4.78121666153227' y='-1.24264068711929' />
+<point x='-4.78121666153227' y='-2.89136195781941' />
+<point x='-4.78121666153227' y='-5.60964378627846' />
+<point x='-4.78121666153227' y='-8.32792561473750' />
+<point x='-5.48832344271882' y='-7.62081883355096' />
+<point x='-6.19543022390536' y='-6.91371205236441' />
+<point x='-6.90253700509191' y='-7.62081883355096' />
+</segment>
+<segment baseFirst='82' baseLast='87' coherent='false'>
+<point x='-6.90253700509191' y='-7.62081883355096' />
+<point x='-5.90253700509191' y='-7.62081883355096' />
+<point x='-6.90253700509191' y='-7.62081883355096' />
+</segment>
+</segments>
+</gene>
+</genes>
+</genome>
